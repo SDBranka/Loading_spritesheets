@@ -1,0 +1,5 @@
+YouTube Video:
+https://youtu.be/M6e3_8LHc7A
+
+Resources:
+https://github.com/russs123/pygame_tutorials/tree/main/sprite_tutorial
